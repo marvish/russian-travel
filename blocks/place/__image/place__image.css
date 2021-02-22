@@ -8,11 +8,16 @@
     width: 340px;
     height: 340px;
   }
-}
+} */
 
-@media screen and (max-width: 767px) {
+/* @media screen and (max-width: 767px) {
   .place__image {
     width: 320px;
-    height: 320px;
   }
 } */
+
+@media screen and (max-width: 424px) {
+  .place__image {
+    /* width: 100vw; */
+  }
+}

@@ -11,6 +11,12 @@
   background-size: cover;
   position: relative;
   z-index: 1;
+  text-decoration: none;
+  color: white;
+}
+
+.cover__item:visited {
+  color: white;
 }
 
 .cover__item::before {
@@ -35,6 +41,8 @@
     /* max-width: 1024px;
     min-height: 640px; */
     min-height: calc(100vw * 0.625);
+    max-width: 1279px;
+    width: 100vw;
   }
 }
 

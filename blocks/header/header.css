@@ -5,10 +5,11 @@
   margin: 28px 0 0;
   display: flex;
   justify-content: space-between;
+  align-self: center;
   /* width: 1184px; */
   min-height: 52px;
   width: 100%;
-  /* max-width: 1184px; */
+  max-width: 1184px;
   box-sizing: border-box;
 }
 
