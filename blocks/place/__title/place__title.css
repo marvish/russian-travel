@@ -16,17 +16,6 @@
   .place__title {
     font-size: 32px;
     line-height: 1.09;
-    /* margin: 0 16px; */
-  }
-}
-
-@media screen and (max-width: 425px) {
-  .place__title {
-    /* margin: 0 max(16px, auto); */
-
-    padding: 0 16px;
-
-    /* margin-left: max(16px, auto);
-    margin-right: max(16px, auto); */
+    margin: 0 16px;
   }
 }

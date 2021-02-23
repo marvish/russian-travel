@@ -2,28 +2,11 @@
   width: 100%;
   max-width: 984px;
   min-width: 320px;
-  /* position: absolute; */
-
-  /* padding-bottom: 100%; */
-  /* height: 615px; */
   margin: 64px 0 8px;
-  /* margin-bottom: 8px; */
 }
 
- @media screen and (max-width: 1279px) {
+@media screen and (max-width: 1279px) {
   .lead__image {
     max-width: 928px;
   }
 }
-
-/* @media screen and (max-width: 1023px) {
-  .lead__title {
-    width: 100% - 24px*2;
-  }
-}
-
-@media screen and (max-width: 767px) {
-  .lead__image {
-    min-width: 320px;
-  }
-} */

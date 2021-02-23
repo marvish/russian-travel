@@ -38,25 +38,8 @@
 
 @media screen and (max-width: 1279px) {
   .cover__item {
-    /* max-width: 1024px;
-    min-height: 640px; */
     min-height: calc(100vw * 0.625);
     max-width: 1279px;
     width: 100vw;
-  }
-}
-
-@media screen and (max-width: 1023px) {
-  .cover__item {
-    /* max-width: 768px;
-    min-height: 480px; */
-
-  }
-}
-
-@media screen and (max-width: 767px) {
-  .cover__item {
-    /* max-width: 320px; */
-    /* min-height: calc(100vw * 0.625); */
   }
 }
