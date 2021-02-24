@@ -33,7 +33,7 @@
 
 .cover__item:hover:before {
   opacity: .8;
-  transition: .3s;
+  transition: opacity .3s ease-out;
 }
 
 @media screen and (max-width: 1279px) {
